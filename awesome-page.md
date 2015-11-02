@@ -1,5 +1,5 @@
 *This awesome sentence is italic*
-**This awesome sentence is bold*
+**This awesome sentence is bold**
 
 This is a multi line code block example:
 
